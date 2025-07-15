@@ -1,0 +1,24 @@
+User Persona Report
+Username: kojied
+
+Name: Not provided
+Age: Appears to be in late 20s to early 30s, inferred from the perspective of feeling 'old' in comparison to college-aged individuals (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+Occupation: Likely works in a tech-related field; mentions being an iOS developer building in visionOS (comment: "Hey I’m an iOS developer building in visionOS," https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/).
+Location: Lives in New York City, inferred from discussions about local bars and nightlife (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+Behavior and Habits:
+- Frequents local bars, indicating a desire for social interaction and nightlife (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+- Engages in discussions about tech and gaming, actively seeks resources to enhance skills (comment: "Hey I’m an iOS developer building in visionOS," https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/).
+- Shows a mix of introspection and social analysis regarding personal experiences and societal issues (posts discussing H1B holders, https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/ and https://www.reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/).
+Frustrations:
+- Feels out of place among younger crowds, leading to a sense of violation (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+- Concerned about being perceived as obsolete or aging out of social scenes (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+Motivations:
+- Aims to engage in nightlife and social experiences but also grapples with feelings of alienation as he ages (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+- Seeks professional growth and development in the tech field (comment: "Hey I’m an iOS developer building in visionOS," https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/).
+Goals and Needs:
+- Wishes to feel included and relevant in social settings, despite feeling out of touch with younger demographics (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+- Desires to continue learning and adapting to changes in technology and industry standards (comment: "Incredible stuff! How did you maintain character consistency?" https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/).
+Personality Traits:
+- Reflective: Often considers the implications of societal trends and personal emotions (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+- Analytical: Engages critically with various topics, from gaming to immigration policies (posts regarding H1B holders, https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/).
+- Socially engaged, yet experiences moments of discomfort in specific social environments (post: "I feel violated by intern season," https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
